@@ -15,8 +15,7 @@ import itertools
 import mechanize
 
 timeout00 = 00
-username = '@user' # <<-- Change the username
-url = 'https://www.facebook.com/'
+url = 'https://www.facebook.com/people/Elisa-Nur/pfbid09tjrnd5pVW8WA1m5L3XVW2t1wFceMYy7ZeVfcwxDDwNZNCxLfDHQZxedstZyXESwl/'
 passw00 = 'ZZZZZZZ999999'
 run00 = True
 
